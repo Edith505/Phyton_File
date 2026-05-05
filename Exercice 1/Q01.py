@@ -19,7 +19,7 @@ def lire_machine(fichier):
             machines.append(machine)
     return machines
 
-def rechercher_machine(machine, ip):
+def rechercher_machine(machines, ip):
     for m in machines:
         if m.adresse_ip == ip:
             return m

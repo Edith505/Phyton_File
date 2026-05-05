@@ -1,0 +1,4 @@
+ID,Nom,Adresse_IP
+1,ServeurWeb,192.168.1.10
+2,ServeurDB,192.168.1.20
+3,Routeur,192.168.1.1
